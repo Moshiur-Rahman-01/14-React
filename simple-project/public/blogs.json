@@ -5,10 +5,11 @@
         "coverPhoto":"https://i.ibb.co.com/Qjbrv4s4/jaflong.jpg",
         "description":"",
         "authorImage":"dhfkljd",
-        "authorName":"",
+        "authorName":"Bangladesh",
         "status":[
 
-        ]
+        ],
+        "readingTime":5
     },
 
     {
@@ -17,10 +18,11 @@
         "coverPhoto":"https://i.ibb.co.com/Qjbrv4s4/jaflong.jpg",
         "description":"",
         "authorImage":"dhfkljd",
-        "authorName":"",
+        "authorName":"Finland",
         "status":[
 
-        ]
+        ],
+        "readingTime":3
     },
 
     {
@@ -29,10 +31,11 @@
         "coverPhoto":"https://i.ibb.co.com/Qjbrv4s4/jaflong.jpg",
         "description":"",
         "authorImage":"dhfkljd",
-        "authorName":"",
+        "authorName":"Germany",
         "status":[
 
-        ]
+        ],
+        "readingTime":9
     },
 
     {
@@ -41,9 +44,10 @@
         "coverPhoto":"https://i.ibb.co.com/Qjbrv4s4/jaflong.jpg",
         "description":"",
         "authorImage":"dhfkljd",
-        "authorName":"",
+        "authorName":"Gaza",
         "status":[
 
-        ]
+        ],
+        "readingTime":15
     }
 ]
